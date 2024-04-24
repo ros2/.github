@@ -14,8 +14,8 @@ Looking to get started with ROS? Our [installation guide is here](https://www.ro
 * [Official ROS Videos](https://vimeo.com/osrfoundation)
 * [ROSCon](https://roscon.ros.org), our yearly developer conference. 
 * Cite ROS 2 in academic work using [DOI: 10.1126/scirobotics.abm6074](https://www.science.org/doi/10.1126/scirobotics.abm6074)
-* [Open Source Robotics Foundation Events Calendar](https://calendar.google.com/calendar/u/0/embed?src=agf3kajirket8khktupm9go748@group.calendar.google.com&ctz=America/Los_Angeles) -- [submit an event](https://bit.ly/OSRFCalendarForm)
-* [Open Source Robotics Foundation Community Events Calendar](https://calendar.google.com/calendar/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0%40group.calendar.google.com&ctz=America%2FLos_Angeles) -- [submit an event](https://bit.ly/OSRFCommunityCalendar)
+* [Open Source Robotics Foundation Official Events Calendar](https://calendar.google.com/calendar/u/0/embed?src=agf3kajirket8khktupm9go748@group.calendar.google.com&ctz=Etc%2FUTC)
+* [Open Source Robotics Foundation Community-organised Events Calendar](https://calendar.google.com/calendar/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0%40group.calendar.google.com&ctz=Etc%2FUTC) -- [submit an event](https://bit.ly/OSRFCalendarForm)
 
 ## Developer Resources
 * [ROS 2 Documentation](https://docs.ros.org/)
