@@ -26,7 +26,7 @@ Looking to get started with ROS? Our [installation guide is here](https://www.ro
 * [REP-2000](https://ros.org/reps/rep-2000.html): ROS 2 Releases and Target Platforms
 
 ## Project Resources
-* [Purchase ROS Swag](https://spring.ros.org/)
+* [Purchase ROS merchandise](https://spring.ros.org/)
 * [Information about the ROS Trademark](https://www.ros.org/blog/media/)
 * On Social Media
   * [Open Robotics on LinkedIn](https://www.linkedin.com/company/open-source-robotics-foundation)
