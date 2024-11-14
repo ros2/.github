@@ -8,7 +8,9 @@ body:
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?
-      description: Please search to see if an issue already exists for the bug you encountered.
+      description: |
+        Please search to see if an issue already exists for the bug you encountered.
+        Please be mindful that some bugs may be attributable to individual ROS packages.
       options:
       - label: I have searched the existing issues
         required: true
@@ -17,6 +19,8 @@ body:
     attributes:
       label: Regression
       description: Is the reported bug a regression? If so, what is the last version of ROS where it still worked fine?
+    validations:
+      required: false
   - type: input
     id: os
     attributes:
@@ -44,6 +48,13 @@ body:
         **Examples:** *rmw_fastrtps_cpp*, *rmw_connextdds*, *rmw_cyclonedds_cpp*, ...
         You can check the ROS Middleware (RMW) implementation with the command: `ros2 doctor --report`
         Find the line starting with `middleware name` in the report.
+    validations:
+      required: false
+  - type: textarea
+    id: rmw_configuration
+    attributes:
+      label: "RMW Configuration (if applicable):"
+      description: If you apply RMW specific configuration, post it here.
     validations:
       required: false
   - type: input

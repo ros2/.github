@@ -9,3 +9,9 @@ contact_links:
   - name: ROS Discourse
     url: https://discourse.ros.org/
     about: Discussion on ROS and ROS-related things.
+  - name: ROS Discord
+    url: https://discord.com/servers/open-robotics-1077825543698927656
+    about: ROS & Gazebo Discord Server.
+  - name: ROS Status Page
+    url: https://status.openrobotics.org/
+    about: Status page for ROS websites and resources.
