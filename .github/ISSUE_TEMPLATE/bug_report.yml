@@ -5,22 +5,6 @@ body:
   - type: markdown
     attributes:
       value: "**Required Info:**"
-  - type: checkboxes
-    attributes:
-      label: Is there an existing issue for this?
-      description: |
-        Please search to see if an issue already exists for the bug you encountered.
-        Please be mindful that some bugs may be attributable to individual ROS packages.
-      options:
-      - label: I have searched the existing issues
-        required: true
-  - type: textarea
-    id: regression
-    attributes:
-      label: Regression
-      description: Is the reported bug a regression? If so, what is the last version of ROS where it still worked fine?
-    validations:
-      required: false
   - type: input
     id: os
     attributes:
@@ -106,5 +90,8 @@ body:
     id: addinfo
     attributes:
       label: "Additional information"
+      description: |
+        Please note any additional information to share here.
+        e.g) Is the reported bug a regression? If so, what is the last version of ROS where it still worked fine?
     validations:
       required: false
