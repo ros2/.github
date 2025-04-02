@@ -57,7 +57,13 @@ body:
       description: |
         It can help us knowing the details of your ROS environment.
         Please use the command `ros2 doctor --report` and copy paste its output here.
-      render: Formatted
+      value: |
+        <details><summary>ros2 doc --report</summary>
+
+        ```console
+        <COPY OUTPUT HERE>
+        ```
+        </details>
     validations:
       required: false
   - type: textarea
