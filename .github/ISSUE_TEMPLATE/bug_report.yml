@@ -14,6 +14,10 @@ body:
         For Linux, please use the command `uname -a` from a terminal and copy paste its output here.
         For Windows, open a terminal (Win key + R and type `cmd`), type the command `ver` and press enter.
         Then copy paste the output here.
+      value: |
+        ```
+        <PUT OS INFO HERE>
+        ```
     validations:
       required: true
   - type: input
