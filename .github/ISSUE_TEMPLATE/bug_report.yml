@@ -62,7 +62,7 @@ body:
         It can help us knowing the details of your ROS environment.
         Please use the command `ros2 doctor --report` and copy paste its output here.
       value: |
-        <details><summary>ros2 doc --report</summary>
+        <details><summary>ros2 doctor --report</summary>
 
         ```console
         <COPY OUTPUT HERE>
