@@ -23,7 +23,7 @@ Looking to get started with ROS? Our [installation guide is here](https://www.ro
 * [ROS Package Index](https://index.ros.org/)
 * [ROS on Docker Hub](https://hub.docker.com/_/ros/)
 * [ROS Resource Status Page](https://status.openrobotics.org/)
-* [REP-2000](https://ros.org/reps/rep-2000.html): ROS 2 Releases and Target Platforms
+* [REP-2000](https://reps.openrobotics.org/rep-2000/): ROS 2 Releases and Target Platforms
 * [List of Robotics Enhancement Proposals (REPS)](https://reps.openrobotics.org/rep-2000/)
 
 ## Project Resources
