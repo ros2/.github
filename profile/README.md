@@ -9,7 +9,8 @@ Looking to get started with ROS? Our [installation guide is here](https://www.ro
 ## Community Resources
 
 * [ROS Discussion Forum](https://discourse.ros.org/)
-* [ROS Zulip Chat](https://openrobotics.zulipchat.com/)
+* [ROS Zulip Chat](https://openrobotics.zulipchat.com/) -- best for developer conversations.
+* [ROS Discord Server](https://discord.com/servers/open-robotics-1077825543698927656) -- best for new users.
 * [Robotics Stack Exchange](https://robotics.stackexchange.com/) (preferred ROS support forum).
 * [Official ROS Videos](https://vimeo.com/osrfoundation)
 * [ROSCon](https://roscon.ros.org), our yearly developer conference. 
@@ -23,11 +24,13 @@ Looking to get started with ROS? Our [installation guide is here](https://www.ro
 * [ROS Package Index](https://index.ros.org/)
 * [ROS on Docker Hub](https://hub.docker.com/_/ros/)
 * [ROS Resource Status Page](https://status.openrobotics.org/)
-* [REP-2000](https://reps.openrobotics.org/rep-2000/): ROS 2 Releases and Target Platforms
+* [REP-2000](https://reps.openrobotics.org/rep-2000/) defines ROS 2 Releases and Target Platforms
 * [List of Robotics Enhancement Proposals (REPS)](https://reps.openrobotics.org/rep-2000/)
 
 ## Project Resources
-* [Purchase ROS merchandise](https://spring.ros.org/)
+* [Open Robotics / the Open Source Robotics Foundation (OSRF)](https://www.openrobotics.org/) is the non-profit organization that supports ROS and our sibling projects.
+* [The Open Source Robotics Alliance (OSRA)](https://osralliance.org/) is the membership organization that handles governance of the ROS project. 
+* [Purchase ROS merchandise](https://open-robotics-shop.fourthwall.com/)
 * [Information about the ROS Trademark](https://www.ros.org/blog/media/)
 * On Social Media
   * [Open Robotics on LinkedIn](https://www.linkedin.com/company/open-source-robotics-foundation)
