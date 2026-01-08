@@ -9,9 +9,8 @@ Looking to get started with ROS? Our [installation guide is here](https://www.ro
 ## Community Resources
 
 * [ROS Discussion Forum](https://discourse.ros.org/)
-* [ROS Zulip Chat](https://openrobotics.zulipchat.com/) -- best for developer conversations.
-* [ROS Discord Server](https://discord.com/servers/open-robotics-1077825543698927656) -- best for new users.
-* [Robotics Stack Exchange](https://robotics.stackexchange.com/) (preferred ROS support forum).
+* [ROS Zulip Chat](https://openrobotics.zulipchat.com/) -- best for developer conversations
+* [Robotics Stack Exchange](https://robotics.stackexchange.com/) -- best for getting ROS support
 * [Official ROS Videos](https://vimeo.com/osrfoundation)
 * [ROSCon](https://roscon.ros.org), our yearly developer conference. 
 * Cite ROS 2 in academic work using [DOI: 10.1126/scirobotics.abm6074](https://www.science.org/doi/10.1126/scirobotics.abm6074)
