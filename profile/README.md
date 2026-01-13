@@ -25,6 +25,7 @@ Looking to get started with ROS? Our [installation guide is here](https://www.ro
 * [ROS Resource Status Page](https://status.openrobotics.org/)
 * [REP-2000](https://reps.openrobotics.org/rep-2000/) defines ROS 2 Releases and Target Platforms
 * [List of Robotics Enhancement Proposals (REPS)](https://reps.openrobotics.org/rep-2000/)
+* [ROS Infrastructure Homepage](https://infrastructure.openrobotics.org/) -- Build Farm status, plus ROS tools like Bloom and Colcon.
 
 ## Project Resources
 * [Open Robotics / the Open Source Robotics Foundation (OSRF)](https://www.openrobotics.org/) is the non-profit organization that supports ROS and our sibling projects.
